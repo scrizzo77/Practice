@@ -1,5 +1,7 @@
 # Write a program to calculate the result of an expression
 
+# TODO: support BODMAS operators
+
 operators = [['*','/'],['+','-']]
 
 class Stack:
